@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+
+### Day 1: April 16, 2016 - Caesar Cipher
+Worked on PicoCTF challenges, came across a challenge to decrypt a block of text. I thought it might have been encrypted with the caesar cipher. I worked through the inventwithpython chapter on doing the caesar cipher and learned how to grab the ascii values of characters and then shift them appropriately. In the end it turns out the block of text wasn't caesar encrypted, but I learned about ascii values so that's cool. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
