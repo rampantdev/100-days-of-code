@@ -1,14 +1,18 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: April 16, 2016 - Caesar Cipher
+### Day 1: April 16, 2017 - Caesar Cipher
 Worked on PicoCTF challenges, came across a challenge to decrypt a block of text. I thought it might have been encrypted with the caesar cipher. I worked through the inventwithpython chapter on doing the caesar cipher and learned how to grab the ascii values of characters and then shift them appropriately. In the end it turns out the block of text wasn't caesar encrypted, but I 
 learned about ascii values so that's cool. 
 
-### Day 1: April 25, 2016 - matplotlib
+### Day 1: April 25, 2017 - matplotlib
+#python
 #Note, had to start over since I missed many days
 Worked on an assignment for the coursera matplotlib class. Figured out how to pull row avg's into a variable, and stored several years of avgs in a list. Plotted that list using matplotlib. Wrote some if conditions to colour the bars in the chart if their value was above a certain threshold or not.
 
+### Day 2: April 25, 2017 - crypt(), uid, gid
+#C
+Worked through some Linux reading about how crypt() works and using it to check an inputted password against the /etc/shadow file. Learned more about uid and gid.
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
