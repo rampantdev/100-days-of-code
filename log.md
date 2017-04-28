@@ -14,6 +14,10 @@ Worked on an assignment for the coursera matplotlib class. Figured out how to pu
 #C
 Worked through some Linux reading about how crypt() works and using it to check an inputted password against the /etc/shadow file. Learned more about uid and gid.
 
+### Day 3: April 26, 2017 - pydocx
+#Python
+Spent time learning about building and manipulating word documents in order to automate processes at my job. Spent time cleaning up a script I had been working on for building a table of data and incorporated it into a word document. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
