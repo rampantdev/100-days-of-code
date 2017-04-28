@@ -10,11 +10,11 @@ learned about ascii values so that's cool.
 #Note, had to start over since I missed many days
 Worked on an assignment for the coursera matplotlib class. Figured out how to pull row avg's into a variable, and stored several years of avgs in a list. Plotted that list using matplotlib. Wrote some if conditions to colour the bars in the chart if their value was above a certain threshold or not.
 
-### Day 2: April 25, 2017 - crypt(), uid, gid
+### Day 2: April 26, 2017 - crypt(), uid, gid
 #C
 Worked through some Linux reading about how crypt() works and using it to check an inputted password against the /etc/shadow file. Learned more about uid and gid.
 
-### Day 3: April 26, 2017 - pydocx
+### Day 3: April 27, 2017 - pydocx
 #Python
 Spent time learning about building and manipulating word documents in order to automate processes at my job. Spent time cleaning up a script I had been working on for building a table of data and incorporated it into a word document. 
 
