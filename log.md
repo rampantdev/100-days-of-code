@@ -18,6 +18,10 @@ Worked through some Linux reading about how crypt() works and using it to check 
 #Python
 Spent time learning about building and manipulating word documents in order to automate processes at my job. Spent time cleaning up a script I had been working on for building a table of data and incorporated it into a word document. 
 
+### Day 4: April 28, 2017 - CookieJar()
+#Python
+Spent time working through CookieJar tutorials. Learned how to capture cookies in the cookiejar() and evaluate how your request was redirected to its final destination. Used url lib. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
