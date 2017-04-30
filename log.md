@@ -22,6 +22,10 @@ Spent time learning about building and manipulating word documents in order to a
 #Python
 Spent time working through CookieJar tutorials. Learned how to capture cookies in the cookiejar() and evaluate how your request was redirected to its final destination. Used url lib. 
 
+### Day 5: April 29, 2017 - URL encoding, HTTP methods, intro to SMTP/mime
+#Python
+Learned more about working with requests. Read through some documentation on sending mail with python. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
