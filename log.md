@@ -26,6 +26,10 @@ Spent time working through CookieJar tutorials. Learned how to capture cookies i
 #Python
 Learned more about working with requests. Read through some documentation on sending mail with python. 
 
+### Day 6: April 30, 2017 - Creating emails
+#Python
+used smtplib to create and send emails through a gmail account. Leveraged this tutorial: http://stackabuse.com/how-to-send-emails-with-gmail-using-python/
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
