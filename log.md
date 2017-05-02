@@ -30,6 +30,11 @@ Learned more about working with requests. Read through some documentation on sen
 #Python
 used smtplib to create and send emails through a gmail account. Leveraged this tutorial: http://stackabuse.com/how-to-send-emails-with-gmail-using-python/
 
+### Day 7: May 1, 2017 - Paramiko and IP 
+#Python
+Learned about the paramiko python library which is jused for SSH connections. Also used the library netifaces to gather information about my home network. Intent is to incorporate netifaces into some home automation in the future. 
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
