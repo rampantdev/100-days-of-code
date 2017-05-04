@@ -39,6 +39,11 @@ Learned about the paramiko python library which is jused for SSH connections. Al
 #Python
 Used python libraries to look up geolocation of given IPs, Query IPs based on domain name with DNS, and retrieve time from the ntp servers
 
+### Day 9: May 3, 2017 - Parsing, automation 
+#Python
+Began writing a script to organize folders within a folder to be more efficiently stored. Working on matching files within folders to determine if duplicates exist. 
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
