@@ -43,6 +43,9 @@ Used python libraries to look up geolocation of given IPs, Query IPs based on do
 #Python
 Began writing a script to organize folders within a folder to be more efficiently stored. Working on matching files within folders to determine if duplicates exist. 
 
+### Day 10: May 4, 2017 - Debuging 
+#Python
+Found an error in a script I use at work that was checking on a partial match instead of an exact match, leading to bloated results. Debugged and fixed the error. 
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
