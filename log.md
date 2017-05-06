@@ -47,6 +47,10 @@ Began writing a script to organize folders within a folder to be more efficientl
 #Python
 Found an error in a script I use at work that was checking on a partial match instead of an exact match, leading to bloated results. Debugged and fixed the error. 
 
+### Day 11: May 5, 2017 - TCP/UDP connections 
+#Python
+Learned how to create and teardown TCP connections both client and server. Also learned a little about how to send data over UDP. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
