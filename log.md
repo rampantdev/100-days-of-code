@@ -51,9 +51,13 @@ Found an error in a script I use at work that was checking on a partial match in
 #Python
 Learned how to create and teardown TCP connections both client and server. Also learned a little about how to send data over UDP. 
 
-### Day 11: May 6, 2017 - Sockets 
+### Day 12: May 6, 2017 - Sockets 
 #Python
 Worked further with sockets to set up client/server for a simple chat program 
+
+### Day 13: May 7, 2017 - More Sockets 
+#Python
+Worked through further tutorials on setting up non-blocking I/O and improving chat program to make use of concurrency 
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
