@@ -59,6 +59,10 @@ Worked further with sockets to set up client/server for a simple chat program
 #Python
 Worked through further tutorials on setting up non-blocking I/O and improving chat program to make use of concurrency 
 
+### Day 14: May 8, 2017 - Continuing with non-blocking I/O and async tasks 
+#Python
+Reworked the chat program to use event-driven architecture. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
