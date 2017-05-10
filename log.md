@@ -63,6 +63,10 @@ Worked through further tutorials on setting up non-blocking I/O and improving ch
 #Python
 Reworked the chat program to use event-driven architecture. 
 
+### Day 15: May 9, 2017 - Classes
+#Python
+Refreshed myself on classes. Implemented a couple simple examples in python. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
