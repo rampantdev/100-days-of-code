@@ -67,6 +67,10 @@ Reworked the chat program to use event-driven architecture.
 #Python
 Refreshed myself on classes. Implemented a couple simple examples in python. 
 
+### Day 16: May 10, 2017 - Relative and fixed paths
+#Python
+Worked on contuining with a work related automation project. Attempting to use shutil to move files around and organize them. Running into trouble working with paths, but making progress.
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
