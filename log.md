@@ -71,6 +71,10 @@ Refreshed myself on classes. Implemented a couple simple examples in python.
 #Python
 Worked on contuining with a work related automation project. Attempting to use shutil to move files around and organize them. Running into trouble working with paths, but making progress.
 
+### Day 17: May 11, 2017 - assertions, logging, etc!
+#Python
+Spent time re-learning about assetions and practiign with the logging module. Also covered some ground on exceptions 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
