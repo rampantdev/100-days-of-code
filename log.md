@@ -75,6 +75,10 @@ Worked on contuining with a work related automation project. Attempting to use s
 #Python
 Spent time re-learning about assetions and practiign with the logging module. Also covered some ground on exceptions 
 
+### Day 18: May 12, 2017 - resizing images
+#Python
+Worked  with PIL for the first time. Very cool library, did some resizing and pasting, and learned how to batch watermark images.
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
