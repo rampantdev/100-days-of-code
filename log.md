@@ -79,6 +79,10 @@ Spent time re-learning about assetions and practiign with the logging module. Al
 #Python
 Worked  with PIL for the first time. Very cool library, did some resizing and pasting, and learned how to batch watermark images.
 
+### Day 19: May 13, 2017 - nmap
+#Python
+Started a project to automate the tracking and scanning of devices connected to my network. Began by determining what my network address is and having the nmap module scan that range. Begin the first steps of parsing that data as well. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
