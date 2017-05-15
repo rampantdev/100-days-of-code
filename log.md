@@ -87,6 +87,9 @@ Started a project to automate the tracking and scanning of devices connected to 
 #Python
 Worked with pyautogui to learn about automating mouse movement, clicks, screenshots, etc. Looking forward to exploring this library further to see how I can leverage it for some automation projects. 
 
+### Day 21: May 15, 2017 - Debugging
+#Python
+Spent time debugging my script to parse directory structures. Have an issue using shutil.copy() to move files to the appropriate locations. Still fixing.. .
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
