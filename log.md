@@ -83,6 +83,11 @@ Worked  with PIL for the first time. Very cool library, did some resizing and pa
 #Python
 Started a project to automate the tracking and scanning of devices connected to my network. Began by determining what my network address is and having the nmap module scan that range. Begin the first steps of parsing that data as well. 
 
+### Day 20: May 14, 2017 - pyautogui
+#Python
+Worked with pyautogui to learn about automating mouse movement, clicks, screenshots, etc. Looking forward to exploring this library further to see how I can leverage it for some automation projects. 
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
