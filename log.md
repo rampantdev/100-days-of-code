@@ -91,6 +91,11 @@ Worked with pyautogui to learn about automating mouse movement, clicks, screensh
 #Python
 Spent time debugging my script to parse directory structures. Have an issue using shutil.copy() to move files to the appropriate locations. Still fixing.. .
 
+##FILL IN DATA FROM WHEN I WAS TRAVELLING
+
+### Day xx May 20, 2017 - tweeting
+Reacquiainting myself with tweepy and beginning some twitter automation efforts. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
