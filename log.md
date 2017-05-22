@@ -96,6 +96,10 @@ Spent time debugging my script to parse directory structures. Have an issue usin
 ### Day xx May 20, 2017 - tweeting
 Reacquiainting myself with tweepy and beginning some twitter automation efforts. 
 
+### Day xx May 21, 2017 - setuid/gid
+#C
+Got back into C. build an app to modify uid and GUID with root.
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
