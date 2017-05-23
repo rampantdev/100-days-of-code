@@ -101,7 +101,7 @@ Reacquiainting myself with tweepy and beginning some twitter automation efforts.
 #C
 Got back into C. build an app to modify uid and GUID with root.
 
-### Day xx May 21, 2017 - Refactoring / modular 
+### Day xx May 22, 2017 - Refactoring / modular 
 #Python
 Starting working on refactoring into more modular scripts. Also set up a public webserver and took some proactive security measures (deactivated 
 
