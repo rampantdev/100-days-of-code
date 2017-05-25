@@ -108,7 +108,11 @@ Starting working on refactoring into more modular scripts. Also set up a public 
 
 ### Day xx May 23, 2017 - Refactoring / modular again
 #Python
-Continued learning more about modularity, including package design and proper importing etc. 
+Continued learning more about modularity, including package design and proper importing etc.
+
+### Day xx May 24, 2017 - Modular programming
+#Python
+Building a modular inventory tracking system.
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
