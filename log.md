@@ -105,7 +105,6 @@ Got back into C. build an app to modify uid and GUID with root.
 #Python
 Starting working on refactoring into more modular scripts. Also set up a public webserver and took some proactive security measures (deactivated 
 
-
 ### Day xx May 23, 2017 - Refactoring / modular again
 #Python
 Continued learning more about modularity, including package design and proper importing etc.
@@ -113,6 +112,10 @@ Continued learning more about modularity, including package design and proper im
 ### Day xx May 24, 2017 - Modular programming
 #Python
 Building a modular inventory tracking system.
+
+### Day xx May 25, 2017 - Modular programming and imports
+#Python
+Finished inventory tracking example. Started learning about alternative ways to do library imports
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
