@@ -117,6 +117,10 @@ Building a modular inventory tracking system.
 #Python
 Finished inventory tracking example. Started learning about alternative ways to do library imports
 
+### Day xx May 26, 2017 - Back to C!
+#C
+Getting back into the swing of C, catching up on typecasting and strcpy etc. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
