@@ -121,6 +121,22 @@ Finished inventory tracking example. Started learning about alternative ways to 
 #C
 Getting back into the swing of C, catching up on typecasting and strcpy etc. 
 
+
+###INSERT ENTRY FROM WEEEKEND
+
+### Day xx May 28, 2017 - C pointers
+#C
+Spend time working through pointers again. Pointers are not fun. 
+
+
+
+
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
