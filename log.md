@@ -128,7 +128,9 @@ Getting back into the swing of C, catching up on typecasting and strcpy etc.
 #C
 Spend time working through pointers again. Pointers are not fun. 
 
-
+### Day xx May 29, 2017 - Pointers, dereferencing, arrays, structs
+#C
+Spent more time working with other variables in C, got to structs 
 
 
 
