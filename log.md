@@ -135,7 +135,11 @@ Spent more time working with other variables in C, got to structs
 
 
 
+###INSERT DAYS
 
+### Day xx June 2, 2017 - System calls - working with time
+#C
+Worked with LINUX system calls for gathering time information, real time, process time, etc. 
 
 
 
