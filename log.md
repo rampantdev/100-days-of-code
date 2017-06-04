@@ -141,6 +141,11 @@ Spent more time working with other variables in C, got to structs
 #C
 Worked with LINUX system calls for gathering time information, real time, process time, etc. 
 
+### Day xx June 3, 2017 - System calls - working PIDs
+#C
+Learning about how to query the virtual files in /proc to determine the status of running process'
+
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
