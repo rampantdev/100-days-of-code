@@ -145,6 +145,10 @@ Worked with LINUX system calls for gathering time information, real time, proces
 #C
 Learning about how to query the virtual files in /proc to determine the status of running process'
 
+### Day xx June 4, 2017 - fseek
+#C
+Learned about fseek() and worked with opening files and manging those pointers
+
 
 
 
