@@ -153,10 +153,14 @@ Learned about fseek() and worked with opening files and manging those pointers
 #C
 Learned about passbyreference vs passbyvalue
 
-### Day xx June 6, 2017 - passby
+### Day xx June 6, 2017 - ARM
 #ARMv7
 Learned the basics of ARM assembly
 
+
+### Day xx June 7, 2017 - pthread
+#C/C++
+Started learning about pthreading and using the GPU
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
