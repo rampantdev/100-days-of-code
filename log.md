@@ -162,6 +162,14 @@ Learned the basics of ARM assembly
 #C/C++
 Started learning about pthreading and using the GPU
 
+
+###INSERT DAYS
+
+
+### Day xx June 13, 2017 - Compiler directives
+#C++
+Learned about #ifdef and how to throw compiler switches in makefiles
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
