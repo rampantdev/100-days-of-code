@@ -170,6 +170,10 @@ Started learning about pthreading and using the GPU
 #C++
 Learned about #ifdef and how to throw compiler switches in makefiles
 
+### Day xx June 14, 2017 - Make files
+#C
+learned more about makefiles and compiler flags
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
