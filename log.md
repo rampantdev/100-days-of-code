@@ -174,6 +174,13 @@ Learned about #ifdef and how to throw compiler switches in makefiles
 #C
 learned more about makefiles and compiler flags
 
+## SKIPPED JUNE 15TH
+
+### Day xx June 16, 2017 - Debuggers
+#C
+Spent time writing small C snippets and using GDB and valgrind on them
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
