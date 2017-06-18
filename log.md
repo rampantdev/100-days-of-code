@@ -180,6 +180,9 @@ learned more about makefiles and compiler flags
 #C
 Spent time writing small C snippets and using GDB and valgrind on them
 
+### Day xx June 17, 2017 - sizeof / arrays
+#C
+Learned about sizeof and worked with different varieties of arrays 
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
