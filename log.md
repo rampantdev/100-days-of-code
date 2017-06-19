@@ -184,6 +184,10 @@ Spent time writing small C snippets and using GDB and valgrind on them
 #C
 Learned about sizeof and worked with different varieties of arrays 
 
+### Day xx June 18, 2017 - Pointers
+#C
+Worked through some exercises with pointers
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
