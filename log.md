@@ -188,6 +188,11 @@ Learned about sizeof and worked with different varieties of arrays
 #C
 Worked through some exercises with pointers
 
+
+### Day xx June 19, 2017 - Structs
+#C
+Worked through some exercises with structs
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
