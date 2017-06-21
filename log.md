@@ -193,6 +193,11 @@ Worked through some exercises with pointers
 #C
 Worked through some exercises with structs
 
+### Day xx June 20, 2017 - Bubble sort
+#C
+Worked through exercises to implement a simple bubble sort. 
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
