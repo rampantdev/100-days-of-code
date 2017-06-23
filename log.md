@@ -200,3 +200,7 @@ Worked through exercises to implement a simple bubble sort.
 ### Day xx June 21, 2017 - macros and .h
 #C
 Got introduced to macros and header files
+
+### Day xx June 22, 2017 - Scope
+#C
+Worked on going back and forth between local and global scope
