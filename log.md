@@ -204,3 +204,8 @@ Got introduced to macros and header files
 ### Day xx June 22, 2017 - Scope
 #C
 Worked on going back and forth between local and global scope
+
+
+### Day xx June 223, 2017 - Structs
+#C
+Worked more with structs
