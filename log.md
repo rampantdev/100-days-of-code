@@ -206,6 +206,10 @@ Got introduced to macros and header files
 Worked on going back and forth between local and global scope
 
 
-### Day xx June 223, 2017 - Structs
+### Day xx June 23, 2017 - Structs
 #C
 Worked more with structs
+
+### Day xx June 24, 2017 - Grep project
+#C
+Started working on a challenge to build a custom grep tool with C
