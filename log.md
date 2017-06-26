@@ -213,3 +213,7 @@ Worked more with structs
 ### Day xx June 24, 2017 - Grep project
 #C
 Started working on a challenge to build a custom grep tool with C
+
+### Day xx June 25, 2017 - MAKEFILES
+#C
+Started learning about advanced makefile features 
