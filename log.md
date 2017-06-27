@@ -217,3 +217,7 @@ Started working on a challenge to build a custom grep tool with C
 ### Day xx June 25, 2017 - MAKEFILES
 #C
 Started learning about advanced makefile features 
+
+### Day xx June 26, 2017 - Library building
+#C
+Learning how to library linking (very frustrating) 
