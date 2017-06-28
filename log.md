@@ -221,3 +221,7 @@ Started learning about advanced makefile features
 ### Day xx June 26, 2017 - Library building
 #C
 Learning how to library linking (very frustrating) 
+
+### Day xx June 26, 2017 - GCC toolchain and Yocto
+#C
+Spent time getting started with Yocto and learning more about toolchains
