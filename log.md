@@ -222,6 +222,10 @@ Started learning about advanced makefile features
 #C
 Learning how to library linking (very frustrating) 
 
-### Day xx June 26, 2017 - GCC toolchain and Yocto
+### Day xx June 27, 2017 - GCC toolchain and Yocto
 #C
 Spent time getting started with Yocto and learning more about toolchains
+
+### Day xx June 28, 2017 - Double Linked List
+#C
+Started working through implementatino of double linked list data structure 
