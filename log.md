@@ -229,3 +229,10 @@ Spent time getting started with Yocto and learning more about toolchains
 ### Day xx June 28, 2017 - Double Linked List
 #C
 Started working through implementatino of double linked list data structure 
+
+
+##INSERT DAys
+
+### Day xx July 2, 2017 - Doubling back to Pointers
+#C
+Having some trouble remember pointer functionality, going back to re-do some pointer work 
