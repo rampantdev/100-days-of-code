@@ -236,3 +236,7 @@ Started working through implementatino of double linked list data structure
 ### Day xx July 2, 2017 - Doubling back to Pointers
 #C
 Having some trouble remember pointer functionality, going back to re-do some pointer work 
+
+### Day xx July 3, 2017 - SQLITE
+#C
+Started working on a C app to use the sqlite library. Haven't gotten too far. 
