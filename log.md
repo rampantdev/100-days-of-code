@@ -240,3 +240,8 @@ Having some trouble remember pointer functionality, going back to re-do some poi
 ### Day xx July 3, 2017 - SQLITE
 #C
 Started working on a C app to use the sqlite library. Haven't gotten too far. 
+
+
+### Day xx July 4, 2017 - SQLITE - more!
+#C
+Troubleshot some erorrs - couldn't get gcc -l sqlite3 to work. Discovered I was missing sqlite3-dev package. After that was able to compile an app do make a sqlite table and then insert data into it. 
