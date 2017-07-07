@@ -245,3 +245,7 @@ Started working on a C app to use the sqlite library. Haven't gotten too far.
 ### Day xx July 4, 2017 - SQLITE - more!
 #C
 Troubleshot some erorrs - couldn't get gcc -l sqlite3 to work. Discovered I was missing sqlite3-dev package. After that was able to compile an app do make a sqlite table and then insert data into it. 
+
+### Day xx July 5, 2017 - SQLITE - adding auth
+#C
+Spent time trying to implement a function to determine if a user has the privileges to access our sqlite program. Still working on this. 
