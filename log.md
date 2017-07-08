@@ -249,3 +249,10 @@ Troubleshot some erorrs - couldn't get gcc -l sqlite3 to work. Discovered I was 
 ### Day xx July 5, 2017 - SQLITE - adding auth
 #C
 Spent time trying to implement a function to determine if a user has the privileges to access our sqlite program. Still working on this. 
+
+### Day xx July 6, 2017 - SQLITE - adding auth again
+#C
+Tried again to implement, for some reason had a regression in my method to add entries to the sql table. Will need to investigate. 
+
+##were missing a day's commits. Think about it 
+
