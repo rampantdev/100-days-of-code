@@ -254,5 +254,10 @@ Spent time trying to implement a function to determine if a user has the privile
 #C
 Tried again to implement, for some reason had a regression in my method to add entries to the sql table. Will need to investigate. 
 
-##were missing a day's commits. Think about it 
+### Day xx July 7, 2017 - ??
+#C
+Forgot to record day but know I did something!
 
+### Day xx July 8, 2017 - SQLITE - smash
+#C
+Tried to refactor my sqlite program but totally demolished it. Had to start over.
