@@ -269,3 +269,7 @@ Started work on automating a program to parse a file of strings known to be foun
 ### Day xx July 10, 2017 - Parsing text 2 + GDB
 #C
 Kept running into a segfault in the parser. Refreshed myself on GDB and determined strcat was causing the segfault. switched to using an [i] index in my buffer to cycle through strings. Also had a regression in using system() to call strings, figured out my buffer was too small and enlarged it to accomdate the string. 
+
+### Day xx July 10, 2017 - Cross compilation
+#C
+Learned about compiling ARM binaries on x86
