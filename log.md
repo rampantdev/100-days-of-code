@@ -274,7 +274,7 @@ Kept running into a segfault in the parser. Refreshed myself on GDB and determin
 #C
 Learned about compiling ARM binaries on x86
 
-### Day xx July 10, 2017 - Cross compilation
+### Day xx July 15, 2017 - Cross compilation
 #C
 Attempted to compile a linux kernel for a couple different archs. Did not get a fully successful comp. 
 
