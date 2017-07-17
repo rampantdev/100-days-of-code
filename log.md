@@ -281,3 +281,8 @@ Attempted to compile a linux kernel for a couple different archs. Did not get a 
 ### Day xx July 16, 2017 - html 
 #HTML
 Did some HTML, nothing fancy.
+
+
+### Day xx July 17, 2017 - back to C 
+#C
+Started incorporating a sqlite db into my string parsing app
