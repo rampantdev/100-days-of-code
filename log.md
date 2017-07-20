@@ -287,6 +287,11 @@ Did some HTML, nothing fancy.
 #C
 Started incorporating a sqlite db into my string parsing app
 
-### Day xx July 17, 2017 - python scripting
+### Day xx July 18, 2017 - python scripting
 #python
 Used python to build HTML templates for a work automation project 
+
+
+### Day xx July 19, 2017 - python scripting
+#C
+Troubleshot a segfault. I had a file pointer being initalized within a loop. I did some debugging to figure out where the crash occurred and once I moved the file pointer out of the loop (which it didn't actually need to be in) all was well in the universe.
