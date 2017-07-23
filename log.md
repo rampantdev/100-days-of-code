@@ -300,3 +300,11 @@ Troubleshot a segfault. I had a file pointer being initalized within a loop. I d
 ### Day xx July 20, 2017 - structs
 #C
 Building a complex struct and trying to call it through a function outside of main. 
+
+### Day xx July 21, 2017 - working on building a character based application using structs
+#C
+Building a complex struct and trying to call it through a function outside of main. 
+
+### Day xx July 20, 2017 - structs
+#C
+Struggling to pass a struct back and forth 
