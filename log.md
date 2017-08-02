@@ -308,3 +308,7 @@ Building a complex struct and trying to call it through a function outside of ma
 ### Day xx July 20, 2017 - structs
 #C
 Struggling to pass a struct back and forth 
+
+### Day xx August 2, 2017 - Fixing structs
+#C
+Sorted my struct problem and added functionality to let someone create a new struct object depending on if they've used the program before or not 
