@@ -312,3 +312,7 @@ Struggling to pass a struct back and forth
 ### Day xx August 2, 2017 - Fixing structs
 #C
 Sorted my struct problem and added functionality to let someone create a new struct object depending on if they've used the program before or not 
+
+### Day xx August 3, 2017 - PIPES
+#C
+Started learning about Pipes on Linux. Struggling to compile example.
