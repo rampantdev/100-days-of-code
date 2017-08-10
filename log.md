@@ -322,3 +322,6 @@ Started learning about Pipes on Linux. Struggling to compile example.
 ### Day xx August 4, 2017 - Debugging char pointers
 #C
 Used string formatting to pass in values from a struct into a char pointer to build some sql. Doesn't appear to be working. Started debugging in gdb. 
+
+Aug 5-9
+did TLPI exercises 
