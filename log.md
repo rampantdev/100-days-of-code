@@ -323,5 +323,9 @@ Started learning about Pipes on Linux. Struggling to compile example.
 #C
 Used string formatting to pass in values from a struct into a char pointer to build some sql. Doesn't appear to be working. Started debugging in gdb. 
 
-Aug 5-9
+Aug 5-11
 did TLPI exercises 
+
+August 12
+
+Started working with Sci-kit learn (python ML)
