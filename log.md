@@ -329,3 +329,5 @@ did TLPI exercises
 August 12
 
 Started working with Sci-kit learn (python ML)
+
+Although I lost track of updating this log - I did sucessfully hit 100 days; and have since gone on to keep programming daily!
