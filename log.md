@@ -1,6 +1,8 @@
 # 100 Days Of Code ROUND 2 (2019) - Log
 
-### Day 1 - Installed Maven and worked on Binary Tree ADTs in Java
+Day 1 - Installed Maven and worked on Binary Tree ADTs in Java
+
+Day 2 - Worked on Binary Trees
 
 # 100 Days Of Code - Log
 
