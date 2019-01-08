@@ -5,6 +5,8 @@ Day 2 - Worked on Binary Trees
 Day 3 - Worked on Binary Trees again
 Day 4 - Created Spring project with Spring Initialzr
 Day 5 - Continued building out Spring site
+Day 6 - Imported a bunch of my personal coding projects into private repos
+
 # 100 Days Of Code - Log
 
 
